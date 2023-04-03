@@ -1,0 +1,24 @@
+
+
+.image {
+  height:400px;
+  width: 500px;
+  border-radius: 400px;
+}
+
+
+.App-header {
+  background-color: #359482;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size:50px;
+  color: rgb(89, 24, 174);
+  
+}
+
+
+
+
